@@ -1,0 +1,14 @@
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/bin/Debug/net8.0/DM P
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/bin/Debug/net8.0/DM P.deps.json
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/bin/Debug/net8.0/DM P.runtimeconfig.json
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/bin/Debug/net8.0/DM P.dll
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/bin/Debug/net8.0/DM P.pdb
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.AssemblyInfoInputs.cache
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.AssemblyInfo.cs
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.csproj.CoreCompileInputs.cache
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.dll
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/refint/DM P.dll
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.pdb
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.genruntimeconfig.cache
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/ref/DM P.dll
