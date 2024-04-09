@@ -12,3 +12,4 @@
 /Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.pdb
 /Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.genruntimeconfig.cache
 /Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/ref/DM P.dll
+/Users/novyjpolzovatel/Documents/GitHub/DM-Project/DM P/obj/Debug/net8.0/DM P.sourcelink.json
